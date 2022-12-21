@@ -13,3 +13,6 @@ Erika Burdette
 ```
 *ThankGod Andrew (and22046@byui.edu)
 ```
+https://thankgodandrew1.github.io/cse121B/index.html  
+
+The above link leads to some projects done during the 7 weeks of the course
